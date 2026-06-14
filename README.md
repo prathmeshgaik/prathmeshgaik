@@ -26,14 +26,14 @@ With a curious mindset and a strong passion for technology, I enjoy building rea
 
 ## 🔭 Featured Projects :
 
-### ♻️ E-Waste Management System &nbsp;`Final Year Project` &nbsp;![Period](https://img.shields.io/badge/Nov_2024–Mar_2025-blue?style=flat-square)
+### ♻️ Waste and Scrap Management  &nbsp;![Period](https://img.shields.io/badge/Nov_2024–Mar_2025-blue?style=flat-square)
 
 > A full-stack MERN stack to streamline e-waste collection, scheduling, and recycling management — built to address a growing environmental challenge.
 
 
 ---
 
-### 🛒 E-Commerce Website &nbsp;`Personal Project` &nbsp;![Period](https://img.shields.io/badge/May–Jun_2025-blue?style=flat-square)
+### 🛒 E-Commerce Website &nbsp;![Period](https://img.shields.io/badge/May–Jun_2025-blue?style=flat-square)
 
 > A Web Application e-commerce platform with a full admin panel, shopping cart, and clean responsive design.
 
