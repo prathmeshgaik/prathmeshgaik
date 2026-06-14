@@ -48,9 +48,8 @@ With a curious mindset and a strong passion for technology, I enjoy building rea
   <a href="mailto:meetprathmeshgaikwad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/prathmeshgaik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-prathmeshgaik-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <br>
+  <a>📧 Email:meetprathmeshgaikwad@gmail.com</a>
   </a>
 </p>
 
