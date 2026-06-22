@@ -8,7 +8,7 @@ Hi, I'm Prathmesh — a passionate Java Developer, and an aspiring Software Engi
 With a curious mindset and a strong passion for technology, I enjoy building real-world applications that solve meaningful problems. I combine creativity, problem-solving, and continuous learning to create efficient and user-friendly software solutions.
 
 - 🌱 **Currently learning:** Spring Boot, Artificial Intelligence & Machine Learning
-- 💻 **Interested in:** Python, Full Stack Development (MERN), Backend Engineering, AI 
+- 💻 **Interested in:** Python, Full Stack Development (JAVA), Backend Engineering, AI 
 - 🚀 **Built:** Web apps, Java desktop apps, Android projects, and MERN stack solutions
 - 📚 **Always improving:** Data Structures and Algorithms 
 - 🎯 **Goal:** Become a skilled Software Engineer contributing to products that impact millions
