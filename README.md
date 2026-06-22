@@ -3,7 +3,7 @@
 
 ---
 
-Hi, I'm Prathmesh — a passionate Python Developer, and an aspiring Software Engineer 🚀
+Hi, I'm Prathmesh — a passionate Java Developer, and an aspiring Software Engineer 🚀
 
 With a curious mindset and a strong passion for technology, I enjoy building real-world applications that solve meaningful problems. I combine creativity, problem-solving, and continuous learning to create efficient and user-friendly software solutions.
 
