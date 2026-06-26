@@ -31,9 +31,9 @@ With a curious mindset and a strong passion for technology, I enjoy building rea
 
 ---
 
-### 🛒 E-Commerce Website &nbsp;![Period](https://img.shields.io/badge/May–Jun_2025-blue?style=flat-square)
+### 🧠 Brain Stroke Prediction System &nbsp; ![Period](https://img.shields.io/badge/Jun_2026-blue?style=flat-square)
 
-> A Web Application e-commerce platform with a full admin panel, shopping cart, and clean responsive design.
+> A machine learning-powered web application that predicts the risk of brain stroke based on patient health parameters. Features a responsive interface, real-time prediction, data visualization, and an intuitive user experience.
 
 ---
 ## 📫 Let's Connect
