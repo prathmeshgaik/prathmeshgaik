@@ -13,6 +13,7 @@ With a curious mindset and a strong passion for technology, I enjoy building rea
 - 📚 **Always improving:** Data Structures and Algorithms 
 - 🎯 **Goal:** Become a skilled Software Engineer contributing to products that impact millions
 - ⚡ **Fun Fact:** I learn best by building projects and experimenting with new technologies
+- 📫 Email : prathmeshg4460@gmail.com
 
 ---
 
@@ -34,6 +35,12 @@ With a curious mindset and a strong passion for technology, I enjoy building rea
 ### 🧠 Brain Stroke Prediction System &nbsp; ![Period](https://img.shields.io/badge/Jun_2026-blue?style=flat-square)
 
 > A machine learning-powered web application that predicts the risk of brain stroke based on patient health parameters. Features a responsive interface, real-time prediction, data visualization, and an intuitive user experience.
+---
+## 🏆 Hackathon Participation
+
+### 🚀 DIMENSIONSX 2026 Hackathon   ![Duration](https://img.shields.io/badge/Jan_16_&_17-orange?style=flat-square)
+
+> Participated in the **24-Hour DIMENSIONSX 2026 Hackathon**, collaborating with a team to design, develop, and present an innovative software solution within a limited timeframe. Strengthened skills in problem-solving, teamwork, rapid prototyping, and project presentation under pressure. 
 
 ---
 ## 📫 Let's Connect
@@ -43,11 +50,11 @@ With a curious mindset and a strong passion for technology, I enjoy building rea
     <img src="https://img.shields.io/badge/LinkedIn-Prathmesh%20Gaikwad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:meetprathmeshgaikwad@gmail.com">
+  <a href="mailto:prathmeshg4460@gmail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br>
-  <a>📧 Email:meetprathmeshgaikwad@gmail.com</a>
+  <a>📧 Email:prathmeshg4460@gmail.com</a>
   </a>
 </p>
 
